@@ -1,2 +1,1 @@
-# github-practice
-Repository to practice the github workflow
+# Plotly Dash Analytics Dashboard
